@@ -1,8 +1,5 @@
 <h1 align="center">🤝 Hi, I'm Deb Mistry</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80px" alt="Handshake gif"/>
-</p>
 
 💻 **Frontend Developer**  
 🎨 Passionate about crafting beautiful and responsive web interfaces.
